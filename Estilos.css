@@ -1,0 +1,43 @@
+.principal{
+    
+    justify-content: center;  
+    display: flex;
+}
+
+
+.todo{
+    justify-content: center;
+}
+
+.text input {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+}
+
+.botonera{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.text input{
+    border: 0;
+    text-decoration: underline;
+}
+
+.posicion{
+    justify-content: center;  
+    display: flex;
+}
+
+.flex h1{
+    position: relative;
+    left: -118px;
+}
+
+.ordenarimagen img{
+    position: absolute;
+    width: 80px;
+    height: 90px;
+}
